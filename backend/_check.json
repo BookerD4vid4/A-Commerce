@@ -1,0 +1,24 @@
+{
+  "oishi_products": [
+    {
+      "product_id": 32,
+      "name": "โออิชิ น้ำผึ้งมะนาว",
+      "is_active": true,
+      "cat_name": "เครื่องดื่ม"
+    },
+    {
+      "product_id": 6,
+      "name": "โออิชิ กรีนที",
+      "is_active": true,
+      "cat_name": "เครื่องดื่ม"
+    }
+  ],
+  "total_products": 31,
+  "total_embeddings": 30,
+  "products_without_embeddings": [
+    {
+      "product_id": 32,
+      "name": "โออิชิ น้ำผึ้งมะนาว"
+    }
+  ]
+}

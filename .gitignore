@@ -1,0 +1,36 @@
+# Frontend
+node_modules/
+dist/
+.env
+.env.local
+
+# Backend
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.pid
+
+# Windows device files
+nul
+frontend/nul
+
+# Claude Code
+.claude/
+
+# Test files
+test_*.py
